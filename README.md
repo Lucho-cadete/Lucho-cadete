@@ -1,10 +1,11 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Luis%20Martínez&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Codam%202025&descSize=20&descAlignY=55)
+<div align="center">
 
-# Hi there, I'm Luis Martínez 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=150&section=header&text=Luis%20Martínez&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40)
 
-## 💻 Aspiring Software Engineer | Career Changer
+<h3>Software Engineer | Career Changer</h3>
+<p>Transitioning from 10+ years in healthcare to software development at Codam Coding College (42 Network)</p>
 
-Former healthcare professional with 10+ years of experience as a nurse, now transitioning into software development. Currently building a strong foundation in systems programming and software engineering fundamentals at **Codam Coding College** (42 Network).
+</div>
 
 ---
 
