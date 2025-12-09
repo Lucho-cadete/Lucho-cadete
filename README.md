@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Luis%20Martínez&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Codam%202025&descSize=20&descAlignY=55)
+
 # Hi there, I'm Luis Martínez 👋
 
 ## 💻 Aspiring Software Engineer | Career Changer
