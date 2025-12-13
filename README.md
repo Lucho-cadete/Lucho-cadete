@@ -2,8 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Luis+Mart%C3%ADnez;Software+Engineer;42+Student)](https://git.io/typing-svg)
 
-</div>
-
 <h3>Software Engineer | Career Changer</h3>
 <p>Transitioning from 10+ years in healthcare to software development at Codam Coding College (42 Network)</p>
 
@@ -26,7 +24,6 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -61,11 +58,18 @@ Transitioning from a decade in healthcare to software engineering. I'm passionat
 
 ## 📊 GitHub Stats
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucho-cadete&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucho-cadete&layout=compact&theme=dark&hide_border=true&cache_seconds=60)
+<img src="https://github-readme-stats.vercel.app/api?username=Lucho-cadete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucho-cadete&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucho-cadete&theme=dark&hide_border=true)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Lucho-cadete&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -78,22 +82,4 @@ Transitioning from a decade in healthcare to software engineering. I'm passionat
 
 ---
 
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucho-cadete&theme=github-dark&hide_border=true&area=true)
-
----
-
-## 📫 Get in Touch
-
-Currently focused on learning and building. Open to connecting with fellow developers and industry professionals.
-
-*Contact details will be added soon.*
-
----
-
-<div align="center">
-  <i>Career changer | Problem solver | Continuous learner</i>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Lucho-cadete&color=grey&style=flat-square)
-</div>
+## 📈 Contribution Ac
