@@ -1,6 +1,8 @@
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Luis+Mart%C3%ADnez;Software+Engineer;42+Student)](https://git.io/typing-svg)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=150&section=header&text=Luis%20Martínez&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40)
+</div>
 
 <h3>Software Engineer | Career Changer</h3>
 <p>Transitioning from 10+ years in healthcare to software development at Codam Coding College (42 Network)</p>
