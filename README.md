@@ -82,4 +82,26 @@ Transitioning from a decade in healthcare to software engineering. I'm passionat
 
 ---
 
-## 📈 Contribution Ac
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucho-cadete&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Get in Touch
+
+Currently focused on learning and building. Open to connecting with fellow developers and industry professionals.
+
+*Contact details will be added soon.*
+
+---
+
+<div align="center">
+  <i>Career changer | Problem solver | Continuous learner</i>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Lucho-cadete&color=grey&style=flat-square)
+</div>
