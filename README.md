@@ -63,7 +63,7 @@ Transitioning from a decade in healthcare to software engineering. I'm passionat
 
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucho-cadete&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucho-cadete&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucho-cadete&layout=compact&theme=dark&hide_border=true&cache_seconds=60)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucho-cadete&theme=dark&hide_border=true)
 
