@@ -41,8 +41,99 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
 
 ## 📂 Featured Projects
 
-### [🎮 so_long](https://github.com/Lucho-cadete/so_long)
-A 2D game built in C using MiniLibX. Features map parsing, pathfinding algorithms, and sprite rendering.
+<div align="center">
+<table>
+<tr>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/so_long">
+      <img src="assets/so_long.png" width="64" alt="so_long"><br><b>so_long</b>
+    </a><br><sub>2D game with MiniLibX</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/Philosophers">
+      <img src="assets/philosophers.png" width="64" alt="Philosophers"><br><b>Philosophers</b>
+    </a><br><sub>Threads and mutexes</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/Inception">
+      <img src="assets/inception.png" width="64" alt="Inception"><br><b>Inception</b>
+    </a><br><sub>Docker Compose infra</sub>
+  </td>
+</tr>
+</table>
+</div>
+
+<!--
+  ============================================================
+  MÁS PROYECTOS — descoméntalos según vayas haciendo públicos
+  los repos. Los iconos ya están todos en assets/.
+  OJO: cub3D y minishell son repos de danielc010 y ahora mismo
+  están en privado, así que sus enlaces darían 404.
+  Pega las <td> que quieras dentro de una <tr> de la tabla de
+  arriba (máximo 4 por fila) o crea una fila nueva.
+  ============================================================
+
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/libft">
+      <img src="assets/libft.png" width="64" alt="Libft"><br><b>Libft</b>
+    </a><br><sub>Your own libc</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/ft_printf">
+      <img src="assets/ft_printf.png" width="64" alt="ft_printf"><br><b>ft_printf</b>
+    </a><br><sub>Variadic arguments</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/get_next_line">
+      <img src="assets/get_next_line.png" width="64" alt="get_next_line"><br><b>get_next_line</b>
+    </a><br><sub>Line-by-line reading</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/Born2beRoot">
+      <img src="assets/born2beroot.png" width="64" alt="Born2beRoot"><br><b>Born2beRoot</b>
+    </a><br><sub>System administration</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/push_swap">
+      <img src="assets/push_swap.png" width="64" alt="push_swap"><br><b>push_swap</b>
+    </a><br><sub>Sorting algorithms</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/pipex">
+      <img src="assets/pipex.png" width="64" alt="pipex"><br><b>pipex</b>
+    </a><br><sub>Pipes and processes</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/danielc010/cub3D">
+      <img src="assets/cub3d.png" width="64" alt="cub3D"><br><b>cub3D</b>
+    </a><br><sub>Raycasting engine in C</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/danielc010/minishell">
+      <img src="assets/minishell.png" width="64" alt="minishell"><br><b>minishell</b>
+    </a><br><sub>A bash from scratch</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/NetPractice">
+      <img src="assets/netpractice.png" width="64" alt="NetPractice"><br><b>NetPractice</b>
+    </a><br><sub>Networks and subnets</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/cpp_modules">
+      <img src="assets/cpp_modules.png" width="64" alt="CPP Modules"><br><b>CPP Modules</b>
+    </a><br><sub>OOP in C++98</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/webserv">
+      <img src="assets/webserv.png" width="64" alt="webserv"><br><b>webserv</b>
+    </a><br><sub>Your own HTTP server</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/ft_transcendence">
+      <img src="assets/ft_transcendence.png" width="64" alt="ft_transcendence"><br><b>ft_transcendence</b>
+    </a><br><sub>Final project</sub>
+  </td>
+-->
 
 *More projects coming soon as I progress through the Codam curriculum.*
 
@@ -104,4 +195,9 @@ Currently focused on learning and building. Open to connecting with fellow devel
   <i>Career changer | Problem solver | Continuous learner</i>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Lucho-cadete&color=grey&style=flat-square)
+
+  <sub>
+    Project icons: <a href="https://tabler.io/icons">Tabler Icons</a> (MIT) ·
+    <a href="https://game-icons.net">game-icons.net</a> (CC BY 3.0)
+  </sub>
 </div>
