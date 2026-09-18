@@ -59,6 +59,11 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
       <img src="assets/inception.png" width="64" alt="Inception"><br><b>Inception</b>
     </a><br><sub>Docker Compose infra</sub>
   </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/CPP-modules">
+      <img src="assets/cpp_modules.png" width="64" alt="CPP Modules"><br><b>CPP Modules</b>
+    </a><br><sub>OOP in C++98</sub>
+  </td>
 </tr>
 </table>
 </div>
@@ -83,7 +88,7 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
       <img src="assets/ft_printf.png" width="64" alt="ft_printf"><br><b>ft_printf</b>
     </a><br><sub>Variadic arguments</sub>
   </td>
-  <td align="center" width="150">
+ <td align="center" width="150">
     <a href="https://github.com/Lucho-cadete/get_next_line">
       <img src="assets/get_next_line.png" width="64" alt="get_next_line"><br><b>get_next_line</b>
     </a><br><sub>Line-by-line reading</sub>
