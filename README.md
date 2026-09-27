@@ -11,10 +11,12 @@
 
 ## 🎓 Education & Journey
 
-**Codam Coding College** — Amsterdam, NL  
-*Started April 2025*
+**Codam Coding College (42 Network)** — Amsterdam, NL  
+*April 2025 – March 2027 (expected)*
 
 Making a deliberate career change from healthcare to technology. Bringing dedication, problem-solving skills, and a strong work ethic from years in nursing to the world of software development.
+
+**Previously:** BSc in Nursing and a postgraduate specialization in geriatric care — a decade of working inside the healthcare systems that much of Dutch healthtech is built for.
 
 ---
 
@@ -24,6 +26,7 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -32,10 +35,10 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
 
 ## 🚀 Current Focus
 
-- Building proficiency in **C programming** and low-level systems
-- Learning **algorithms** and **data structures**
-- Developing problem-solving skills through hands-on projects
-- Exploring the fundamentals of **software engineering**
+- Deepening **C++ (C++98)**: OOP, canonical form, operator overloading, templates and the STL
+- **Concurrency and systems programming**: threads, mutexes, processes, pipes and IPC
+- **Containerisation** with Docker and Docker Compose
+- Writing **unit tests** for my own code, and keeping every project Valgrind-clean
 
 ---
 
@@ -45,10 +48,39 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
 <table>
 <tr>
   <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/libft">
+      <img src="assets/libft.png" width="64" alt="Libft"><br><b>Libft</b>
+    </a><br><sub>Your own libc</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/ft_printf">
+      <img src="assets/ft_printf.png" width="64" alt="ft_printf"><br><b>ft_printf</b>
+    </a><br><sub>Variadic arguments</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/get_next_line">
+      <img src="assets/get_next_line.png" width="64" alt="get_next_line"><br><b>get_next_line</b>
+    </a><br><sub>Line-by-line reading</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/push_swap">
+      <img src="assets/push_swap.png" width="64" alt="push_swap"><br><b>push_swap</b>
+    </a><br><sub>Sorting algorithms</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/pipex">
+      <img src="assets/pipex.png" width="64" alt="pipex"><br><b>pipex</b>
+    </a><br><sub>Pipes and processes</sub>
+  </td>
+  <td align="center" width="150">
     <a href="https://github.com/Lucho-cadete/so_long">
       <img src="assets/so_long.png" width="64" alt="so_long"><br><b>so_long</b>
     </a><br><sub>2D game with MiniLibX</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="150">
     <a href="https://github.com/Lucho-cadete/Philosophers">
       <img src="assets/philosophers.png" width="64" alt="Philosophers"><br><b>Philosophers</b>
@@ -75,38 +107,19 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
   OJO: cub3D y minishell son repos de danielc010 y ahora mismo
   están en privado, así que sus enlaces darían 404.
   Pega las <td> que quieras dentro de una <tr> de la tabla de
-  arriba (máximo 4 por fila) o crea una fila nueva.
+  arriba (máximo 3 por fila, para que cuadren) o crea una fila
+  nueva.
   ============================================================
 
-  <td align="center" width="150">
-    <a href="https://github.com/Lucho-cadete/libft">
-      <img src="assets/libft.png" width="64" alt="Libft"><br><b>Libft</b>
-    </a><br><sub>Your own libc</sub>
-  </td>
-  <td align="center" width="150">
-    <a href="https://github.com/Lucho-cadete/ft_printf">
-      <img src="assets/ft_printf.png" width="64" alt="ft_printf"><br><b>ft_printf</b>
-    </a><br><sub>Variadic arguments</sub>
-  </td>
- <td align="center" width="150">
-    <a href="https://github.com/Lucho-cadete/get_next_line">
-      <img src="assets/get_next_line.png" width="64" alt="get_next_line"><br><b>get_next_line</b>
-    </a><br><sub>Line-by-line reading</sub>
-  </td>
   <td align="center" width="150">
     <a href="https://github.com/Lucho-cadete/Born2beRoot">
       <img src="assets/born2beroot.png" width="64" alt="Born2beRoot"><br><b>Born2beRoot</b>
     </a><br><sub>System administration</sub>
   </td>
   <td align="center" width="150">
-    <a href="https://github.com/Lucho-cadete/push_swap">
-      <img src="assets/push_swap.png" width="64" alt="push_swap"><br><b>push_swap</b>
-    </a><br><sub>Sorting algorithms</sub>
-  </td>
-  <td align="center" width="150">
-    <a href="https://github.com/Lucho-cadete/pipex">
-      <img src="assets/pipex.png" width="64" alt="pipex"><br><b>pipex</b>
-    </a><br><sub>Pipes and processes</sub>
+    <a href="https://github.com/Lucho-cadete/NetPractice">
+      <img src="assets/netpractice.png" width="64" alt="NetPractice"><br><b>NetPractice</b>
+    </a><br><sub>Networks and subnets</sub>
   </td>
   <td align="center" width="150">
     <a href="https://github.com/danielc010/cub3D">
@@ -117,16 +130,6 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
     <a href="https://github.com/danielc010/minishell">
       <img src="assets/minishell.png" width="64" alt="minishell"><br><b>minishell</b>
     </a><br><sub>A bash from scratch</sub>
-  </td>
-  <td align="center" width="150">
-    <a href="https://github.com/Lucho-cadete/NetPractice">
-      <img src="assets/netpractice.png" width="64" alt="NetPractice"><br><b>NetPractice</b>
-    </a><br><sub>Networks and subnets</sub>
-  </td>
-  <td align="center" width="150">
-    <a href="https://github.com/Lucho-cadete/cpp_modules">
-      <img src="assets/cpp_modules.png" width="64" alt="CPP Modules"><br><b>CPP Modules</b>
-    </a><br><sub>OOP in C++98</sub>
   </td>
   <td align="center" width="150">
     <a href="https://github.com/Lucho-cadete/webserv">
@@ -174,7 +177,7 @@ Transitioning from a decade in healthcare to software engineering. I'm passionat
 - Master fundamentals of **systems programming**
 - Build a strong portfolio of well-crafted projects
 - Contribute to **open-source** projects
-- Land my first role as a **software engineer**
+- Land a **software engineering internship** in the Netherlands, ideally in healthtech
 
 ---
 
@@ -190,9 +193,16 @@ Transitioning from a decade in healthcare to software engineering. I'm passionat
 
 ## 📫 Get in Touch
 
-Currently focused on learning and building. Open to connecting with fellow developers and industry professionals.
+<div align="center">
 
-*Contact details will be added soon.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL-AQUI)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luchomsupertramp@gmail.com)
+
+</div>
+
+Based in the Netherlands · EU citizen · Dutch C1 · English C1 · Spanish native
+
+**Available for a software engineering internship from [MES] 2026.** Open to connecting with fellow developers and industry professionals.
 
 ---
 
@@ -200,6 +210,8 @@ Currently focused on learning and building. Open to connecting with fellow devel
   <i>Career changer | Problem solver | Continuous learner</i>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Lucho-cadete&color=grey&style=flat-square)
+
+</div>
 
   <sub>
     Project icons: <a href="https://tabler.io/icons">Tabler Icons</a> (MIT) ·
