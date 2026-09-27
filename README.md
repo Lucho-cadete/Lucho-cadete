@@ -86,6 +86,17 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
       <img src="assets/philosophers.png" width="64" alt="Philosophers"><br><b>Philosophers</b>
     </a><br><sub>Threads and mutexes</sub>
   </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/Inception">
+      <img src="assets/inception.png" width="64" alt="Inception"><br><b>Inception</b>
+    </a><br><sub>Docker Compose infra</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/CPP-modules">
+      <img src="assets/cpp_modules.png" width="64" alt="CPP Modules"><br><b>CPP Modules</b>
+    </a><br><sub>OOP in C++98</sub>
+  </td>
+</tr>
 <tr>
   <td align="center" width="150">
     <a href="https://github.com/Lucho-cadete/minishell">
@@ -98,17 +109,6 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
     </a><br><sub>Raycasting engine in C</sub>
   </td>
   <td align="center" width="150"></td>
-</tr>
-  <td align="center" width="150">
-    <a href="https://github.com/Lucho-cadete/Inception">
-      <img src="assets/inception.png" width="64" alt="Inception"><br><b>Inception</b>
-    </a><br><sub>Docker Compose infra</sub>
-  </td>
-  <td align="center" width="150">
-    <a href="https://github.com/Lucho-cadete/CPP-modules">
-      <img src="assets/cpp_modules.png" width="64" alt="CPP Modules"><br><b>CPP Modules</b>
-    </a><br><sub>OOP in C++98</sub>
-  </td>
 </tr>
 </table>
 </div>
