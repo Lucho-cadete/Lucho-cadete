@@ -108,13 +108,12 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
       <img src="assets/inception.png" width="64" alt="Inception"><br><b>Inception</b>
     </a><br><sub>Docker Compose infra</sub>
   </td>
-  <td align="center" width="150"></td>
-</tr>
   <td align="center" width="150">
     <a href="https://github.com/Lucho-cadete/webserv">
       <img src="assets/webserv.png" width="64" alt="webserv"><br><b>webserv</b>
     </a><br><sub>Your own HTTP server</sub>
   </td>
+</tr>
 </table>
 </div>
 
