@@ -195,14 +195,14 @@ Transitioning from a decade in healthcare to software engineering. I'm passionat
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL-AQUI)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luchomsupertramp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-martinez-costales)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luismartinezcostales@gmail.com)
 
 </div>
 
-Based in the Netherlands · EU citizen · Dutch C1 · English C1 · Spanish native
+Based in the Netherlands · Dutch C1 · English C1 · Spanish native
 
-**Available for a software engineering internship from [MES] 2026.** Open to connecting with fellow developers and industry professionals.
+**Available for a software engineering internship from januari 2027.** Open to connecting with fellow developers and industry professionals.
 
 ---
 
