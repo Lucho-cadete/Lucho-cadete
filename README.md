@@ -70,14 +70,14 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
     </a><br><sub>Sorting algorithms</sub>
   </td>
   <td align="center" width="150">
-    <a href="https://github.com/Lucho-cadete/pipex">
-      <img src="assets/pipex.png" width="64" alt="pipex"><br><b>pipex</b>
-    </a><br><sub>Pipes and processes</sub>
-  </td>
-  <td align="center" width="150">
     <a href="https://github.com/Lucho-cadete/so_long">
       <img src="assets/so_long.png" width="64" alt="so_long"><br><b>so_long</b>
     </a><br><sub>2D game with MiniLibX</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/pipex">
+      <img src="assets/pipex.png" width="64" alt="pipex"><br><b>pipex</b>
+    </a><br><sub>Pipes and processes</sub>
   </td>
 </tr>
 <tr>
@@ -87,18 +87,6 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
     </a><br><sub>Threads and mutexes</sub>
   </td>
   <td align="center" width="150">
-    <a href="https://github.com/Lucho-cadete/Inception">
-      <img src="assets/inception.png" width="64" alt="Inception"><br><b>Inception</b>
-    </a><br><sub>Docker Compose infra</sub>
-  </td>
-  <td align="center" width="150">
-    <a href="https://github.com/Lucho-cadete/CPP-modules">
-      <img src="assets/cpp_modules.png" width="64" alt="CPP Modules"><br><b>CPP Modules</b>
-    </a><br><sub>OOP in C++98</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="150">
     <a href="https://github.com/Lucho-cadete/minishell">
       <img src="assets/minishell.png" width="64" alt="minishell"><br><b>minishell</b>
     </a><br><sub>A bash from scratch</sub>
@@ -107,6 +95,18 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
     <a href="https://github.com/Lucho-cadete/cub3D">
       <img src="assets/cub3d.png" width="64" alt="cub3D"><br><b>cub3D</b>
     </a><br><sub>Raycasting engine in C</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/CPP-modules">
+      <img src="assets/cpp_modules.png" width="64" alt="CPP Modules"><br><b>CPP Modules</b>
+    </a><br><sub>OOP in C++98</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/Inception">
+      <img src="assets/inception.png" width="64" alt="Inception"><br><b>Inception</b>
+    </a><br><sub>Docker Compose infra</sub>
   </td>
   <td align="center" width="150"></td>
 </tr>
