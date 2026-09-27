@@ -97,6 +97,19 @@ Making a deliberate career change from healthcare to technology. Bringing dedica
     </a><br><sub>OOP in C++98</sub>
   </td>
 </tr>
+<tr>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/minishell">
+      <img src="assets/minishell.png" width="64" alt="minishell"><br><b>minishell</b>
+    </a><br><sub>A bash from scratch</sub>
+  </td>
+  <td align="center" width="150">
+    <a href="https://github.com/Lucho-cadete/cub3D">
+      <img src="assets/cub3d.png" width="64" alt="cub3D"><br><b>cub3D</b>
+    </a><br><sub>Raycasting engine in C</sub>
+  </td>
+  <td align="center" width="150"></td>
+</tr>
 </table>
 </div>
 
